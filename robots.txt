@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: Googlebot-News
+Disallow:
+
+User-agent: Googlebot-Video
+Disallow:
+
+User-agent: Googlebot-Mobile
+Disallow:
+
+User-agent: *ai*
+Disallow:
+
+User-agent: *
+Disallow:
+
+Sitemap: https://callboyapp.pages.dev/sitemap.xml
