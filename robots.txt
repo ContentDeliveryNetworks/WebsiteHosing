@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://callboyapp.pages.dev/sitemap.xml
